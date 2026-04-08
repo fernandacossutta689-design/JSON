@@ -31,61 +31,61 @@ Matriz (Array): Lista ordenada de valores (pueden ser de distintos tipos), envue
     "id": 1,
     "nombre": "Elena García",
     "edad": 28,
-    "mail": "elena.garcia@example.com"
+    "mail": "elena.garcia@gmail.com"
   },
   {
     "id": 2,
     "nombre": "Marcos López",
     "edad": 34,
-    "mail": "marcos.lopez@example.com"
+    "mail": "marcos.lopez@gmail.com"
   },
   {
     "id": 3,
     "nombre": "Sofía Martínez",
     "edad": 22,
-    "mail": "sofia.mtz@example.com"
+    "mail": "sofia.mtz@gmail.com"
   },
   {
     "id": 4,
     "nombre": "Javier Solís",
     "edad": 45,
-    "mail": "javier.solis@example.com"
+    "mail": "javier.solis@gmail.com"
   },
   {
     "id": 5,
     "nombre": "Lucía Torres",
     "edad": 31,
-    "mail": "lucia.torres@example.com"
+    "mail": "lucia.torres@gmail.com"
   },
   {
     "id": 6,
     "nombre": "Andrés Castro",
     "edad": 29,
-    "mail": "andres.castro@example.com"
+    "mail": "andres.castro@gmail.com"
   },
   {
     "id": 7,
     "nombre": "Valeria Ríos",
     "edad": 26,
-    "mail": "valeria.rios@example.com"
+    "mail": "valeria.rios@gmail.com"
   },
   {
     "id": 8,
     "nombre": "Diego Navarro",
     "edad": 40,
-    "mail": "diego.nav@example.com"
+    "mail": "diego.nav@gmail.com"
   },
   {
     "id": 9,
     "nombre": "Camila Peña",
     "edad": 24,
-    "mail": "camila.pena@example.com"
+    "mail": "camila.pena@gmail.com"
   },
   {
     "id": 10,
     "nombre": "Ricardo Vega",
     "edad": 37,
-    "mail": "ricardo.vega@example.com"
+    "mail": "ricardo.vega@gmail.com"
   }
   
 ]
